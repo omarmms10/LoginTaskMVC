@@ -1,0 +1,296 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\Day6Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E04847B-2A77-4B1E-A7F4-84E75F3E7DCD}|Day6Demo\\Day6Demo.csproj|c:\\users\\admin\\source\\repos\\day6demo\\day6demo\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E04847B-2A77-4B1E-A7F4-84E75F3E7DCD}|Day6Demo\\Day6Demo.csproj|solutionrelative:day6demo\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E04847B-2A77-4B1E-A7F4-84E75F3E7DCD}|Day6Demo\\Day6Demo.csproj|c:\\users\\admin\\source\\repos\\day6demo\\day6demo\\views\\shared\\_loginlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E04847B-2A77-4B1E-A7F4-84E75F3E7DCD}|Day6Demo\\Day6Demo.csproj|solutionrelative:day6demo\\views\\shared\\_loginlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E04847B-2A77-4B1E-A7F4-84E75F3E7DCD}|Day6Demo\\Day6Demo.csproj|c:\\users\\admin\\source\\repos\\day6demo\\day6demo\\views\\shared\\_layoutwebsite.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E04847B-2A77-4B1E-A7F4-84E75F3E7DCD}|Day6Demo\\Day6Demo.csproj|solutionrelative:day6demo\\views\\shared\\_layoutwebsite.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E04847B-2A77-4B1E-A7F4-84E75F3E7DCD}|Day6Demo\\Day6Demo.csproj|c:\\users\\admin\\source\\repos\\day6demo\\day6demo\\day6demo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1E04847B-2A77-4B1E-A7F4-84E75F3E7DCD}|Day6Demo\\Day6Demo.csproj|solutionrelative:day6demo\\day6demo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E04847B-2A77-4B1E-A7F4-84E75F3E7DCD}|Day6Demo\\Day6Demo.csproj|c:\\users\\admin\\source\\repos\\day6demo\\day6demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E04847B-2A77-4B1E-A7F4-84E75F3E7DCD}|Day6Demo\\Day6Demo.csproj|solutionrelative:day6demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E04847B-2A77-4B1E-A7F4-84E75F3E7DCD}|Day6Demo\\Day6Demo.csproj|c:\\users\\admin\\source\\repos\\day6demo\\day6demo\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E04847B-2A77-4B1E-A7F4-84E75F3E7DCD}|Day6Demo\\Day6Demo.csproj|solutionrelative:day6demo\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E04847B-2A77-4B1E-A7F4-84E75F3E7DCD}|Day6Demo\\Day6Demo.csproj|c:\\users\\admin\\source\\repos\\day6demo\\day6demo\\models\\day6mvcdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E04847B-2A77-4B1E-A7F4-84E75F3E7DCD}|Day6Demo\\Day6Demo.csproj|solutionrelative:day6demo\\models\\day6mvcdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E04847B-2A77-4B1E-A7F4-84E75F3E7DCD}|Day6Demo\\Day6Demo.csproj|c:\\users\\admin\\source\\repos\\day6demo\\day6demo\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E04847B-2A77-4B1E-A7F4-84E75F3E7DCD}|Day6Demo\\Day6Demo.csproj|solutionrelative:day6demo\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E04847B-2A77-4B1E-A7F4-84E75F3E7DCD}|Day6Demo\\Day6Demo.csproj|c:\\users\\admin\\source\\repos\\day6demo\\day6demo\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E04847B-2A77-4B1E-A7F4-84E75F3E7DCD}|Day6Demo\\Day6Demo.csproj|solutionrelative:day6demo\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E04847B-2A77-4B1E-A7F4-84E75F3E7DCD}|Day6Demo\\Day6Demo.csproj|c:\\users\\admin\\source\\repos\\day6demo\\day6demo\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E04847B-2A77-4B1E-A7F4-84E75F3E7DCD}|Day6Demo\\Day6Demo.csproj|solutionrelative:day6demo\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E04847B-2A77-4B1E-A7F4-84E75F3E7DCD}|Day6Demo\\Day6Demo.csproj|c:\\users\\admin\\source\\repos\\day6demo\\day6demo\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E04847B-2A77-4B1E-A7F4-84E75F3E7DCD}|Day6Demo\\Day6Demo.csproj|solutionrelative:day6demo\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E04847B-2A77-4B1E-A7F4-84E75F3E7DCD}|Day6Demo\\Day6Demo.csproj|c:\\users\\admin\\source\\repos\\day6demo\\day6demo\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E04847B-2A77-4B1E-A7F4-84E75F3E7DCD}|Day6Demo\\Day6Demo.csproj|solutionrelative:day6demo\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E04847B-2A77-4B1E-A7F4-84E75F3E7DCD}|Day6Demo\\Day6Demo.csproj|c:\\users\\admin\\source\\repos\\day6demo\\day6demo\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E04847B-2A77-4B1E-A7F4-84E75F3E7DCD}|Day6Demo\\Day6Demo.csproj|solutionrelative:day6demo\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E04847B-2A77-4B1E-A7F4-84E75F3E7DCD}|Day6Demo\\Day6Demo.csproj|c:\\users\\admin\\source\\repos\\day6demo\\day6demo\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E04847B-2A77-4B1E-A7F4-84E75F3E7DCD}|Day6Demo\\Day6Demo.csproj|solutionrelative:day6demo\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E04847B-2A77-4B1E-A7F4-84E75F3E7DCD}|Day6Demo\\Day6Demo.csproj|c:\\users\\admin\\source\\repos\\day6demo\\day6demo\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E04847B-2A77-4B1E-A7F4-84E75F3E7DCD}|Day6Demo\\Day6Demo.csproj|solutionrelative:day6demo\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E04847B-2A77-4B1E-A7F4-84E75F3E7DCD}|Day6Demo\\Day6Demo.csproj|c:\\users\\admin\\source\\repos\\day6demo\\day6demo\\views\\home\\showlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E04847B-2A77-4B1E-A7F4-84E75F3E7DCD}|Day6Demo\\Day6Demo.csproj|solutionrelative:day6demo\\views\\home\\showlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_layoutWebsite.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Day6Demo\\Day6Demo\\Views\\Shared\\_layoutWebsite.cshtml",
+              "RelativeDocumentMoniker": "Day6Demo\\Views\\Shared\\_layoutWebsite.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Day6Demo\\Day6Demo\\Views\\Shared\\_layoutWebsite.cshtml",
+              "RelativeToolTip": "Day6Demo\\Views\\Shared\\_layoutWebsite.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T21:47:47.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Day6Demo\\Day6Demo\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Day6Demo\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Day6Demo\\Day6Demo\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Day6Demo\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T21:17:46.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Day6Demo\\Day6Demo\\Program.cs",
+              "RelativeDocumentMoniker": "Day6Demo\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Day6Demo\\Day6Demo\\Program.cs",
+              "RelativeToolTip": "Day6Demo\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T21:09:17.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Day6Demo\\Day6Demo\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Day6Demo\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Day6Demo\\Day6Demo\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Day6Demo\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T21:05:04.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Day6MvcdbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Day6Demo\\Day6Demo\\Models\\Day6MvcdbContext.cs",
+              "RelativeDocumentMoniker": "Day6Demo\\Models\\Day6MvcdbContext.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Day6Demo\\Day6Demo\\Models\\Day6MvcdbContext.cs",
+              "RelativeToolTip": "Day6Demo\\Models\\Day6MvcdbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T20:14:25.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_LoginLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Day6Demo\\Day6Demo\\Views\\Shared\\_LoginLayout.cshtml",
+              "RelativeDocumentMoniker": "Day6Demo\\Views\\Shared\\_LoginLayout.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Day6Demo\\Day6Demo\\Views\\Shared\\_LoginLayout.cshtml",
+              "RelativeToolTip": "Day6Demo\\Views\\Shared\\_LoginLayout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T20:34:12.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Day6Demo",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Day6Demo\\Day6Demo\\Day6Demo.csproj",
+              "RelativeDocumentMoniker": "Day6Demo\\Day6Demo.csproj",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Day6Demo\\Day6Demo\\Day6Demo.csproj",
+              "RelativeToolTip": "Day6Demo\\Day6Demo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-15T20:32:25.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Day6Demo\\Day6Demo\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Day6Demo\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Day6Demo\\Day6Demo\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "Day6Demo\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T21:04:09.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Day6Demo\\Day6Demo\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Day6Demo\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Day6Demo\\Day6Demo\\Models\\User.cs",
+              "RelativeToolTip": "Day6Demo\\Models\\User.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T20:06:49.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Day6Demo\\Day6Demo\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Day6Demo\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Day6Demo\\Day6Demo\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Day6Demo\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBAAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T20:57:44.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Day6Demo\\Day6Demo\\Views\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "Day6Demo\\Views\\Users\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Day6Demo\\Day6Demo\\Views\\Users\\Index.cshtml",
+              "RelativeToolTip": "Day6Demo\\Views\\Users\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T20:56:55.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Day6Demo\\Day6Demo\\Views\\Users\\Create.cshtml",
+              "RelativeDocumentMoniker": "Day6Demo\\Views\\Users\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Day6Demo\\Day6Demo\\Views\\Users\\Create.cshtml",
+              "RelativeToolTip": "Day6Demo\\Views\\Users\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T20:28:44.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Day6Demo\\Day6Demo\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Day6Demo\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Day6Demo\\Day6Demo\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Day6Demo\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T20:25:26.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Day6Demo\\Day6Demo\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Day6Demo\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Day6Demo\\Day6Demo\\Models\\Employee.cs",
+              "RelativeToolTip": "Day6Demo\\Models\\Employee.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswBsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T20:07:51.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Day6Demo\\Day6Demo\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Day6Demo\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Day6Demo\\Day6Demo\\Models\\Department.cs",
+              "RelativeToolTip": "Day6Demo\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T20:17:36.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "showList.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Day6Demo\\Day6Demo\\Views\\Home\\showList.cshtml",
+              "RelativeDocumentMoniker": "Day6Demo\\Views\\Home\\showList.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Day6Demo\\Day6Demo\\Views\\Home\\showList.cshtml",
+              "RelativeToolTip": "Day6Demo\\Views\\Home\\showList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T14:58:33.116Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

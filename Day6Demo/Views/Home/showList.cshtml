@@ -1,0 +1,13 @@
+﻿@model Day6Demo.Models.Department
+
+@{
+    ViewData["Title"] = "showList";
+}
+
+<h1>showList</h1>
+
+<div class="editor_field">
+    @Html.LabelFor(m => m.DepartmentId)
+    @Html.DropDownListFor(m => m.DepartmentId, ViewBag.departmentID as SelectList, "Select Department", new { @class = "form-control" })
+    @Html.ValidationMessageFor(m => m.DepartmentId)
+</div>
